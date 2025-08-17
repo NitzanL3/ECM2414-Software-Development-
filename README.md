@@ -1,2 +1,7 @@
 # ECM2414-Software-Development-
-This repository is the submission of my practical programming assignment for the software development module
+This repository is the submission of my practical programming assignment for my software development module
+It is a multi player card game
+The code primrily focuses on hanling concurrent execution and threading 
+This received an overall grade of 94%
+
+
