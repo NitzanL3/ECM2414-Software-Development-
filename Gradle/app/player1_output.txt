@@ -1,0 +1,4 @@
+Player 1 initial hand: 7 7 7 7 
+Player 1 wins
+Player 1 exits
+Player 1 final hand: 7 7 7 7

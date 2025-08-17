@@ -1,0 +1,236 @@
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 2 initial hand: 2 4 6 8 
+Player 2 draws a 15 from deck 2
+Player 2 discards a 4 to deck 1
+Player 2 current hand is 2 6 8 15
+Player 2 draws a 13 from deck 2
+Player 2 discards a 6 to deck 1
+Player 2 current hand is 2 8 15 13
+Player 2 draws a 11 from deck 2
+Player 2 discards a 8 to deck 1
+Player 2 current hand is 2 15 13 11
+Player 2 draws a 9 from deck 2
+Player 2 discards a 15 to deck 1
+Player 2 current hand is 2 13 11 9
+Player 2 draws a 3 from deck 2
+Player 2 discards a 13 to deck 1
+Player 2 current hand is 2 11 9 3
+Player 2 draws a 5 from deck 2
+Player 2 discards a 11 to deck 1
+Player 2 current hand is 2 9 3 5
+Player 2 draws a 7 from deck 2
+Player 2 discards a 9 to deck 1
+Player 2 current hand is 2 3 5 7
+Player 2 draws a 16 from deck 2
+Player 2 discards a 3 to deck 1
+Player 2 current hand is 2 5 7 16
+Player 2 draws a 14 from deck 2
+Player 2 discards a 5 to deck 1
+Player 2 current hand is 2 7 16 14
+Player 2 draws a 12 from deck 2
+Player 2 discards a 7 to deck 1
+Player 2 current hand is 2 16 14 12
+Player 2 draws a 10 from deck 2
+Player 2 discards a 16 to deck 1
+Player 2 current hand is 2 14 12 10
+Player 2 draws a 4 from deck 2
+Player 2 discards a 14 to deck 1
+Player 2 current hand is 2 12 10 4
+Player 2 draws a 6 from deck 2
+Player 2 discards a 12 to deck 1
+Player 2 current hand is 2 10 4 6
+Player 2 draws a 8 from deck 2
+Player 2 discards a 10 to deck 1
+Player 2 current hand is 2 4 6 8
+Player 2 draws a 15 from deck 2
+Player 2 discards a 4 to deck 1
+Player 2 current hand is 2 6 8 15
+Player 2 draws a 13 from deck 2
+Player 2 discards a 6 to deck 1
+Player 2 current hand is 2 8 15 13
+Player 2 draws a 11 from deck 2
+Player 2 discards a 8 to deck 1
+Player 2 current hand is 2 15 13 11
+Player 2 draws a 9 from deck 2
+Player 2 discards a 15 to deck 1
+Player 2 current hand is 2 13 11 9
+Player 2 draws a 3 from deck 2
+Player 2 discards a 13 to deck 1
+Player 2 current hand is 2 11 9 3
+Player 2 draws a 5 from deck 2
+Player 2 discards a 11 to deck 1
+Player 2 current hand is 2 9 3 5
+Player 2 draws a 7 from deck 2
+Player 2 discards a 9 to deck 1
+Player 2 current hand is 2 3 5 7
+Player 2 draws a 16 from deck 2
+Player 2 discards a 3 to deck 1
+Player 2 current hand is 2 5 7 16
+Player 2 draws a 14 from deck 2
+Player 2 discards a 5 to deck 1
+Player 2 current hand is 2 7 16 14
+Player 2 draws a 12 from deck 2
+Player 2 discards a 7 to deck 1
+Player 2 current hand is 2 16 14 12
+Player 2 draws a 10 from deck 2
+Player 2 discards a 16 to deck 1
+Player 2 current hand is 2 14 12 10
+Player 2 draws a 4 from deck 2
+Player 2 discards a 14 to deck 1
+Player 2 current hand is 2 12 10 4
+Player 2 draws a 6 from deck 2
+Player 2 discards a 12 to deck 1
+Player 2 current hand is 2 10 4 6
+Player 2 draws a 8 from deck 2
+Player 2 discards a 10 to deck 1
+Player 2 current hand is 2 4 6 8
+Player 2 draws a 15 from deck 2
+Player 2 discards a 4 to deck 1
+Player 2 current hand is 2 6 8 15
+Player 2 draws a 13 from deck 2
+Player 2 discards a 6 to deck 1
+Player 2 current hand is 2 8 15 13
+Player 2 draws a 11 from deck 2
+Player 2 discards a 8 to deck 1
+Player 2 current hand is 2 15 13 11
+Player 2 draws a 9 from deck 2
+Player 2 discards a 15 to deck 1
+Player 2 current hand is 2 13 11 9
+Player 2 draws a 3 from deck 2
+Player 2 discards a 13 to deck 1
+Player 2 current hand is 2 11 9 3
+Player 2 draws a 5 from deck 2
+Player 2 discards a 11 to deck 1
+Player 2 current hand is 2 9 3 5
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 2 initial hand: 2 4 6 8 
+Player 2 draws a 15 from deck 2
+Player 2 discards a 4 to deck 1
+Player 2 current hand is 2 6 8 15
+Player 2 draws a 13 from deck 2
+Player 2 discards a 6 to deck 1
+Player 2 current hand is 2 8 15 13
+Player 2 draws a 11 from deck 2
+Player 2 discards a 8 to deck 1
+Player 2 current hand is 2 15 13 11
+Player 2 draws a 9 from deck 2
+Player 2 discards a 15 to deck 1
+Player 2 current hand is 2 13 11 9
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
+Player 1 has informed player 2 that player 1 has won
+Player 2 exits
+Player 2 hand: 2 4 6 8
